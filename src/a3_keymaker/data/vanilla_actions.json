@@ -1,0 +1,6249 @@
+{
+  "preset_columns": [],
+  "actions": [
+    {
+      "category": "Common",
+      "action_id": "gear",
+      "label": "Inventory",
+      "default_keys_per_preset": [
+        "G",
+        "I",
+        "I",
+        "I",
+        "Tab",
+        "I",
+        "I"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "showMap",
+      "label": "Map",
+      "default_keys_per_preset": [
+        "M",
+        "M",
+        "M",
+        "M",
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "hideMap",
+      "label": "Hide Map",
+      "default_keys_per_preset": [
+        "M",
+        "M",
+        "M",
+        "M",
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "diary",
+      "label": "Diary",
+      "default_keys_per_preset": [
+        "J",
+        "J",
+        "2xJ",
+        "J",
+        "J",
+        "J",
+        "J"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "tasks",
+      "label": "Task Overview",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "J",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "MiniMap",
+      "label": "GPS",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "MiniMapToggle",
+      "label": "GPS (Toggle)",
+      "default_keys_per_preset": [
+        "Right Ctrl+M",
+        "Right Ctrl+M",
+        "Right Ctrl+M",
+        "Right Ctrl+M",
+        "Right Ctrl+M",
+        "Right Ctrl+M",
+        "Right Ctrl+M"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "uavView",
+      "label": "AV Camera",
+      "default_keys_per_preset": [
+        "",
+        "Tab",
+        "Tab",
+        "Tab",
+        "Left Ctrl+Tab",
+        "Tab",
+        "Tab"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "uavViewToggle",
+      "label": "AV Camera (Toggle)",
+      "default_keys_per_preset": [
+        "",
+        "2xTab",
+        "2xTab",
+        "2xTab",
+        "2xTab",
+        "2xTab",
+        "2xTab"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "pilotCamera",
+      "label": "Targeting Camera",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+Sec. Mouse Btn.",
+        "Left Ctrl+Sec. Mouse Btn.",
+        "Left Ctrl+Sec. Mouse Btn.",
+        "Left Ctrl+Sec. Mouse Btn.",
+        "Left Ctrl+Sec. Mouse Btn.",
+        "Left Ctrl+Sec. Mouse Btn."
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "openDlcScreen",
+      "label": "Open DLC Screen",
+      "default_keys_per_preset": [
+        "Left Shift+P",
+        "Left Shift+P",
+        "Left Shift+P",
+        "Left Shift+P",
+        "Left Shift+P",
+        "Left Shift+P",
+        "Left Shift+P"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "compass",
+      "label": "Compass",
+      "default_keys_per_preset": [
+        "K",
+        "K",
+        "K",
+        "",
+        "",
+        "K",
+        "K"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "compassToggle",
+      "label": "Compass (Toggle)",
+      "default_keys_per_preset": [
+        "2xK",
+        "2xK",
+        "2xK",
+        "K",
+        "K",
+        "2xK",
+        "2xK"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "watch",
+      "label": "Watch",
+      "default_keys_per_preset": [
+        "O",
+        "O",
+        "O",
+        "",
+        "",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "watchToggle",
+      "label": "Watch (Toggle)",
+      "default_keys_per_preset": [
+        "2xO",
+        "2xO",
+        "2xO",
+        "O",
+        "O",
+        "2xO",
+        "2xO"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "ListLeftVehicleDisplay",
+      "label": "Left Panel Next",
+      "default_keys_per_preset": [
+        "",
+        "[",
+        "[",
+        "[",
+        "[",
+        "[",
+        "["
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "ListRightVehicleDisplay",
+      "label": "Right Panel Next",
+      "default_keys_per_preset": [
+        "",
+        "]",
+        "]",
+        "]",
+        "]",
+        "]",
+        "]"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "ListPrevLeftVehicleDisplay",
+      "label": "Left Panel Previous",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "ListPrevRightVehicleDisplay",
+      "label": "Right Panel Previous",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "CloseLeftVehicleDisplay",
+      "label": "Close Left Panel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "CloseRightVehicleDisplay",
+      "label": "Close Right Panel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "NextModeLeftVehicleDisplay",
+      "label": "Left Panel Mode",
+      "default_keys_per_preset": [
+        "",
+        "Right Ctrl+[",
+        "Right Ctrl+[",
+        "Right Ctrl+[",
+        "Right Ctrl+[",
+        "Right Ctrl+[",
+        "Right Ctrl+["
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "NextModeRightVehicleDisplay",
+      "label": "Right Panel Mode",
+      "default_keys_per_preset": [
+        "",
+        "Right Ctrl+]",
+        "Right Ctrl+]",
+        "Right Ctrl+]",
+        "Right Ctrl+]",
+        "Right Ctrl+]",
+        "Right Ctrl+]"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "nightVision",
+      "label": "Night Vision",
+      "default_keys_per_preset": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "TransportNightVision",
+      "label": "Vision Mode (Vehicle)",
+      "default_keys_per_preset": [
+        "Right Ctrl+N",
+        "Right Ctrl+N",
+        "Right Ctrl+N",
+        "Right Ctrl+N",
+        "Right Ctrl+N",
+        "Right Ctrl+N",
+        "Right Ctrl+N"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "binocular",
+      "label": "Binoculars",
+      "default_keys_per_preset": [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "headlights",
+      "label": "Headlights On/Off",
+      "default_keys_per_preset": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "prevAction",
+      "label": "Previous",
+      "default_keys_per_preset": [
+        "Mouse wheel up",
+        "Mouse wheel up",
+        "Mouse wheel up",
+        "Mouse wheel up",
+        "Mouse wheel up",
+        "Mouse wheel up",
+        "Mouse wheel up"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "nextAction",
+      "label": "Next",
+      "default_keys_per_preset": [
+        "Mouse wheel down",
+        "Mouse wheel down",
+        "Mouse wheel down",
+        "Mouse wheel down",
+        "Mouse wheel down",
+        "Mouse wheel down",
+        "Mouse wheel down"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "Action",
+      "label": "Use Default Action",
+      "default_keys_per_preset": [
+        "Enter",
+        "Space",
+        "Space",
+        "Enter",
+        "F",
+        "Space",
+        "F"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "ActionContext",
+      "label": "Use Selected Action",
+      "default_keys_per_preset": [
+        "Middle Mouse Btn.",
+        "Middle Mouse Btn.",
+        "Middle Mouse Btn.",
+        "F",
+        "F",
+        "Middle Mouse Btn.",
+        "Middle Mouse Btn."
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "ActionInMap",
+      "label": "Use Command Action (Map)",
+      "default_keys_per_preset": [
+        "",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn."
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "navigateMenu",
+      "label": "Navigate Menu",
+      "default_keys_per_preset": [
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "closeContext",
+      "label": "Close Context Menu",
+      "default_keys_per_preset": [
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn."
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "LiteUnitInfoToggle",
+      "label": "N/A",
+      "default_keys_per_preset": [
+        "Right Ctrl+H",
+        "Right Ctrl+H",
+        "Right Ctrl+H",
+        "Right Ctrl+H",
+        "Right Ctrl+H",
+        "Right Ctrl+H",
+        "Right Ctrl+H"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "help",
+      "label": "Last Help",
+      "default_keys_per_preset": [
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "engineToggle",
+      "label": "Engine On/Off",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "vehicleTurbo",
+      "label": "Vehicle Turbo",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "GetOut",
+      "label": "Get Out",
+      "default_keys_per_preset": [
+        "",
+        "V",
+        "V",
+        "V",
+        "X",
+        "V",
+        "V"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "Eject",
+      "label": "Eject",
+      "default_keys_per_preset": [
+        "",
+        "2xV",
+        "2xV",
+        "2xV",
+        "2xX",
+        "2xV",
+        "2xV"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "swapGunner",
+      "label": "Swap Gunner",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "teamSwitch",
+      "label": "Team Switch",
+      "default_keys_per_preset": [
+        "U",
+        "U",
+        "U",
+        "U",
+        "U",
+        "U",
+        "U"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "teamSwitchPrev",
+      "label": "Team Switch to Previous",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "teamSwitchNext",
+      "label": "Team Switch to Next",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "timeDec",
+      "label": "Time Deceleration",
+      "default_keys_per_preset": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "timeInc",
+      "label": "Time Acceleration",
+      "default_keys_per_preset": [
+        "=",
+        "=",
+        "=",
+        "=",
+        "=",
+        "=",
+        "="
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "copyVersion",
+      "label": "Copy Version to Clipboard",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+/",
+        "Left Ctrl+/",
+        "Left Ctrl+/",
+        "Left Ctrl+/",
+        "Left Ctrl+/",
+        "Left Ctrl+/"
+      ]
+    },
+    {
+      "category": "Common",
+      "action_id": "ingamePause",
+      "label": "Pause",
+      "default_keys_per_preset": [
+        "Escape",
+        "Escape",
+        "Escape",
+        "Escape",
+        "Escape",
+        "Escape",
+        "Escape"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "defaultAction",
+      "label": "Fire",
+      "default_keys_per_preset": [
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn."
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "fire",
+      "label": "Command Fire",
+      "default_keys_per_preset": [
+        "Left Ctrl+Prim. Mouse Btn.",
+        "Left Ctrl+Prim. Mouse Btn.",
+        "Left Ctrl+Prim. Mouse Btn.",
+        "Left Ctrl+Prim. Mouse Btn.",
+        "Left Ctrl+Prim. Mouse Btn.",
+        "Left Ctrl+Prim. Mouse Btn.",
+        "Left Ctrl+Prim. Mouse Btn."
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "reloadMagazine",
+      "label": "Reload",
+      "default_keys_per_preset": [
+        "R",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "SwitchPrimary",
+      "label": "Switch to Primary Weapon",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "1",
+        "",
+        "1",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "SwitchHandgun",
+      "label": "Switch to Handgun",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "2",
+        "",
+        "3",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "SwitchSecondary",
+      "label": "Switch to Secondary Weapon",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "3",
+        "",
+        "2",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "SwitchWeaponGrp1",
+      "label": "Switch to Weapons Group 1",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "1",
+        "",
+        "1",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "SwitchWeaponGrp2",
+      "label": "Switch to Weapons Group 2",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "2",
+        "",
+        "2",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "SwitchWeaponGrp3",
+      "label": "Switch to Weapons Group 3",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "3",
+        "",
+        "3",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "SwitchWeaponGrp4",
+      "label": "Switch to Weapons Group 4",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "4",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "nextWeapon",
+      "label": "Next Weapon",
+      "default_keys_per_preset": [
+        "F",
+        "F",
+        "F",
+        "C",
+        "V",
+        "F",
+        "Z"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "prevWeapon",
+      "label": "Previous Weapon",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "switchWeapon",
+      "label": "Switch Gun/Launcher",
+      "default_keys_per_preset": [
+        "",
+        "Right Ctrl+;",
+        "Right Ctrl+;",
+        "Right Ctrl+;",
+        "Right Ctrl+;",
+        "Right Ctrl+;",
+        "Right Ctrl+;"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "handgun",
+      "label": "Switch Gun/Handgun",
+      "default_keys_per_preset": [
+        ";",
+        ";",
+        ";",
+        ";",
+        ";",
+        ";",
+        ";"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "optics",
+      "label": "Optics",
+      "default_keys_per_preset": [
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "0 [NUM]",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "opticsTemp",
+      "label": "Optics Temporary",
+      "default_keys_per_preset": [
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn."
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "opticsMode",
+      "label": "Optics Mode",
+      "default_keys_per_preset": [
+        "/ [NUM]",
+        "Left Ctrl+",
+        "Left Ctrl+",
+        "Left Ctrl+",
+        "Left Ctrl+",
+        "Left Ctrl+",
+        "X"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "holdBreath",
+      "label": "Hold Breath",
+      "default_keys_per_preset": [
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Left Shift",
+        "Left Shift",
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "deployWeaponAuto",
+      "label": "Deploy Weapon",
+      "default_keys_per_preset": [
+        "Left Ctrl+C",
+        "C",
+        "C",
+        "Left Ctrl+C",
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "tempRaiseWeapon",
+      "label": "Raise Weapon",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "toggleRaiseWeapon",
+      "label": "Toggle Raise Weapon",
+      "default_keys_per_preset": [
+        "2xLeft Ctrl",
+        "2xLeft Ctrl",
+        "2xLeft Ctrl",
+        "2xLeft Ctrl",
+        "2xLeft Ctrl",
+        "2xLeft Ctrl",
+        "2xC"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "throw",
+      "label": "Throw",
+      "default_keys_per_preset": [
+        "T",
+        "G",
+        "G",
+        "G",
+        "4",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "cycleThrownItems",
+      "label": "Cycle Throw Items",
+      "default_keys_per_preset": [
+        "Left Ctrl+T",
+        "Left Ctrl+G",
+        "Left Ctrl+G",
+        "Left Ctrl+G",
+        "Left Ctrl+4",
+        "Left Ctrl+G",
+        "Left Shift+G"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "zeroingUp",
+      "label": "Zeroing Up",
+      "default_keys_per_preset": [
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "zeroingDown",
+      "label": "Zeroing Down",
+      "default_keys_per_preset": [
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "gunElevUp",
+      "label": "Gun Elevation Up",
+      "default_keys_per_preset": [
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "gunElevDown",
+      "label": "Gun Elevation Down",
+      "default_keys_per_preset": [
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "gunElevSlow",
+      "label": "Slow Gun Elevation",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "gunElevAuto",
+      "label": "Lase Range",
+      "default_keys_per_preset": [
+        "\\",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "ActiveSensorsToggle",
+      "label": "Radar On/Off",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "lockTarget",
+      "label": "Lock Target",
+      "default_keys_per_preset": [
+        "Hold Sec. Mouse Btn.",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "lockTargetToggle",
+      "label": "N/A",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "revealTarget",
+      "label": "Reveal Target",
+      "default_keys_per_preset": [
+        "Hold Sec. Mouse Btn.",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "lockTargets",
+      "label": "Next Target",
+      "default_keys_per_preset": [
+        "Tab",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "lockEmptyTargets",
+      "label": "Next Empty Target",
+      "default_keys_per_preset": [
+        "Left Ctrl+Tab",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "vehLockTargets",
+      "label": "Next Target (Vehicle)",
+      "default_keys_per_preset": [
+        "Tab",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "vehLockEmptyTargets",
+      "label": "Next Empty Target (Vehicle)",
+      "default_keys_per_preset": [
+        "Left Ctrl+Tab",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "vehLockTurretView",
+      "label": "Stabilize Turret",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+T",
+        "Left Ctrl+T",
+        "Left Ctrl+T",
+        "Left Ctrl+T",
+        "Left Ctrl+T",
+        "Left Ctrl+T"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "switchGunnerWeapon",
+      "label": "Change Gunner Weapon",
+      "default_keys_per_preset": [
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+V",
+        "Left Ctrl+F",
+        "Left Ctrl+Z"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "heliManualFire",
+      "label": "Toggle Manual Fire",
+      "default_keys_per_preset": [
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "launchCM",
+      "label": "Countermeasures",
+      "default_keys_per_preset": [
+        "R",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    {
+      "category": "Weapons",
+      "action_id": "nextCM",
+      "label": "Countermeasures Mode",
+      "default_keys_per_preset": [
+        "Left Ctrl+R",
+        "Left Ctrl+C",
+        "Left Ctrl+C",
+        "Left Ctrl+C",
+        "Left Ctrl+C",
+        "Left Ctrl+C",
+        "Left Ctrl+C"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimUp",
+      "label": "Aim Up",
+      "default_keys_per_preset": [
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimDown",
+      "label": "Aim Down",
+      "default_keys_per_preset": [
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimLeft",
+      "label": "Aim Left",
+      "default_keys_per_preset": [
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimRight",
+      "label": "Aim Right",
+      "default_keys_per_preset": [
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimHeadUp",
+      "label": "Look Up",
+      "default_keys_per_preset": [
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimHeadDown",
+      "label": "Look Down",
+      "default_keys_per_preset": [
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimHeadLeft",
+      "label": "Look Left",
+      "default_keys_per_preset": [
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "AimHeadRight",
+      "label": "Look Right",
+      "default_keys_per_preset": [
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "personView",
+      "label": "Toggle View",
+      "default_keys_per_preset": [
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "tacticalView",
+      "label": "Tactical View",
+      "default_keys_per_preset": [
+        ". [NUM]",
+        ". [NUM]",
+        ". [NUM]",
+        ". [NUM]",
+        ". [NUM]",
+        ". [NUM]",
+        ". [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "zoomTemp",
+      "label": "Zoom Temporary",
+      "default_keys_per_preset": [
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn.",
+        "Hold Sec. Mouse Btn."
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookAround",
+      "label": "Look",
+      "default_keys_per_preset": [
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "commandWatch",
+      "label": "Command Watch",
+      "default_keys_per_preset": [
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookAroundToggle",
+      "label": "Freelook",
+      "default_keys_per_preset": [
+        "2xLeft Alt",
+        "2xLeft Alt",
+        "2xLeft Alt",
+        "2xLeft Alt",
+        "2xLeft Alt",
+        "2xLeft Alt",
+        "2xLeft Alt"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookLeftUp",
+      "label": "Look Left Up",
+      "default_keys_per_preset": [
+        "7 [NUM]",
+        "7 [NUM]",
+        "7 [NUM]",
+        "7 [NUM]",
+        "7 [NUM]",
+        "7 [NUM]",
+        "7 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookUp",
+      "label": "Look Up",
+      "default_keys_per_preset": [
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRightUp",
+      "label": "Look Right Up",
+      "default_keys_per_preset": [
+        "9 [NUM]",
+        "9 [NUM]",
+        "9 [NUM]",
+        "9 [NUM]",
+        "9 [NUM]",
+        "9 [NUM]",
+        "9 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookLeft",
+      "label": "Look Left",
+      "default_keys_per_preset": [
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookCenter",
+      "label": "Center Look",
+      "default_keys_per_preset": [
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRight",
+      "label": "Look Right",
+      "default_keys_per_preset": [
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookLeftDown",
+      "label": "Look Left Down",
+      "default_keys_per_preset": [
+        "1 [NUM]",
+        "1 [NUM]",
+        "1 [NUM]",
+        "1 [NUM]",
+        "1 [NUM]",
+        "1 [NUM]",
+        "1 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookDown",
+      "label": "Look Down",
+      "default_keys_per_preset": [
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRightDown",
+      "label": "Look Right Down",
+      "default_keys_per_preset": [
+        "3 [NUM]",
+        "3 [NUM]",
+        "3 [NUM]",
+        "3 [NUM]",
+        "3 [NUM]",
+        "3 [NUM]",
+        "3 [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "zoomIn",
+      "label": "Zoom In",
+      "default_keys_per_preset": [
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "zoomInToggle",
+      "label": "Zoom In (Toggle)",
+      "default_keys_per_preset": [
+        "2x+ [NUM]",
+        "2x+ [NUM]",
+        "2x+ [NUM]",
+        "2x+ [NUM]",
+        "2x+ [NUM]",
+        "2x+ [NUM]",
+        "2x+ [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "zoomOut",
+      "label": "Zoom Out",
+      "default_keys_per_preset": [
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "zoomOutToggle",
+      "label": "Zoom Out (Toggle)",
+      "default_keys_per_preset": [
+        "2x- [NUM]",
+        "2x- [NUM]",
+        "2x- [NUM]",
+        "2x- [NUM]",
+        "2x- [NUM]",
+        "2x- [NUM]",
+        "2x- [NUM]"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftUp",
+      "label": "Move Head Up",
+      "default_keys_per_preset": [
+        "Left Ctrl+Page Up",
+        "Left Ctrl+Page Up",
+        "Left Ctrl+Page Up",
+        "Left Ctrl+Page Up",
+        "Left Ctrl+Page Up",
+        "Left Ctrl+Page Up",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftDown",
+      "label": "Move Head Down",
+      "default_keys_per_preset": [
+        "Left Ctrl+Page Down",
+        "Left Ctrl+Page Down",
+        "Left Ctrl+Page Down",
+        "Left Ctrl+Page Down",
+        "Left Ctrl+Page Down",
+        "Left Ctrl+Page Down",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftForward",
+      "label": "Move Head Forward",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+8 [NUM]",
+        "Left Ctrl+8 [NUM]",
+        "Left Ctrl+8 [NUM]",
+        "Left Ctrl+8 [NUM]",
+        "Left Ctrl+8 [NUM]",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftLeft",
+      "label": "Move Head Left",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+4 [NUM]",
+        "Left Ctrl+4 [NUM]",
+        "Left Ctrl+4 [NUM]",
+        "Left Ctrl+4 [NUM]",
+        "Left Ctrl+4 [NUM]",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftCenter",
+      "label": "Center Head Move",
+      "default_keys_per_preset": [
+        "Left Ctrl+5 [NUM]",
+        "Left Ctrl+5 [NUM]",
+        "Left Ctrl+5 [NUM]",
+        "Left Ctrl+5 [NUM]",
+        "Left Ctrl+5 [NUM]",
+        "Left Ctrl+5 [NUM]",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftRight",
+      "label": "Move Head Right",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+6 [NUM]",
+        "Left Ctrl+6 [NUM]",
+        "Left Ctrl+6 [NUM]",
+        "Left Ctrl+6 [NUM]",
+        "Left Ctrl+6 [NUM]",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftBack",
+      "label": "Move Head Back",
+      "default_keys_per_preset": [
+        "",
+        "Left Ctrl+2 [NUM]",
+        "Left Ctrl+2 [NUM]",
+        "Left Ctrl+2 [NUM]",
+        "Left Ctrl+2 [NUM]",
+        "Left Ctrl+2 [NUM]",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRollLeft",
+      "label": "Head Roll Left",
+      "default_keys_per_preset": [
+        "Left Ctrl+7 [NUM]",
+        "Left Ctrl+7 [NUM]",
+        "Left Ctrl+7 [NUM]",
+        "Left Ctrl+7 [NUM]",
+        "Left Ctrl+7 [NUM]",
+        "Left Ctrl+7 [NUM]",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRollRight",
+      "label": "Head Roll Right",
+      "default_keys_per_preset": [
+        "Left Ctrl+9 [NUM]",
+        "Left Ctrl+9 [NUM]",
+        "Left Ctrl+9 [NUM]",
+        "Left Ctrl+9 [NUM]",
+        "Left Ctrl+9 [NUM]",
+        "Left Ctrl+9 [NUM]",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookLeftCont",
+      "label": "Look Left (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device Rot Left",
+        "Tracking device Rot Left",
+        "Tracking device Rot Left",
+        "Tracking device Rot Left",
+        "Tracking device Rot Left",
+        "Tracking device Rot Left",
+        "Tracking device Rot Left"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRightCont",
+      "label": "Look Right (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device Rot Right",
+        "Tracking device Rot Right",
+        "Tracking device Rot Right",
+        "Tracking device Rot Right",
+        "Tracking device Rot Right",
+        "Tracking device Rot Right",
+        "Tracking device Rot Right"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookDownCont",
+      "label": "Look Down (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device Rot Down",
+        "Tracking device Rot Down",
+        "Tracking device Rot Down",
+        "Tracking device Rot Down",
+        "Tracking device Rot Down",
+        "Tracking device Rot Down",
+        "Tracking device Rot Down"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookUpCont",
+      "label": "Look Up (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device Rot Up",
+        "Tracking device Rot Up",
+        "Tracking device Rot Up",
+        "Tracking device Rot Up",
+        "Tracking device Rot Up",
+        "Tracking device Rot Up",
+        "Tracking device Rot Up"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "zoomContIn",
+      "label": "Zoom In (Continuous)",
+      "default_keys_per_preset": [
+        "Tracking device -tZ",
+        "Tracking device -tZ",
+        "Tracking device -tZ",
+        "Tracking device -tZ",
+        "Tracking device -tZ",
+        "Tracking device -tZ",
+        "Tracking device -tZ"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "zoomContOut",
+      "label": "Zoom Out (Continuous)",
+      "default_keys_per_preset": [
+        "Tracking device +tZ",
+        "Tracking device +tZ",
+        "Tracking device +tZ",
+        "Tracking device +tZ",
+        "Tracking device +tZ",
+        "Tracking device +tZ",
+        "Tracking device +tZ"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftLeftCont",
+      "label": "Head Left (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device Left",
+        "Tracking device Left",
+        "Tracking device Left",
+        "Tracking device Left",
+        "Tracking device Left",
+        "Tracking device Left",
+        "Tracking device Left"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftRightCont",
+      "label": "Head Right (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device Right",
+        "Tracking device Right",
+        "Tracking device Right",
+        "Tracking device Right",
+        "Tracking device Right",
+        "Tracking device Right",
+        "Tracking device Right"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftUpCont",
+      "label": "Head Up (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftDownCont",
+      "label": "Head Down (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftForwardCont",
+      "label": "Head Forward (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookShiftBackCont",
+      "label": "Head Back (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRollLeftCont",
+      "label": "Head Roll Left (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device +rZ",
+        "Tracking device +rZ",
+        "Tracking device +rZ",
+        "Tracking device +rZ",
+        "Tracking device +rZ",
+        "Tracking device +rZ",
+        "Tracking device +rZ"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "lookRollRightCont",
+      "label": "Head Roll Right (Analog)",
+      "default_keys_per_preset": [
+        "Tracking device -rZ",
+        "Tracking device -rZ",
+        "Tracking device -rZ",
+        "Tracking device -rZ",
+        "Tracking device -rZ",
+        "Tracking device -rZ",
+        "Tracking device -rZ"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "turretElevationUp",
+      "label": "Raise Turret",
+      "default_keys_per_preset": [
+        "Left Ctrl+Q",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "View",
+      "action_id": "turretElevationDown",
+      "label": "Lower turret",
+      "default_keys_per_preset": [
+        "Left Ctrl+Z",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "selectAll",
+      "label": "Select All Units",
+      "default_keys_per_preset": [
+        "grave",
+        "grave",
+        "grave",
+        "2xgrave",
+        "grave",
+        "grave",
+        "grave"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "switchCommand",
+      "label": "Switch Command Menu",
+      "default_keys_per_preset": [
+        "Left Ctrl+Space,",
+        "Left Ctrl+Space,",
+        "Left Ctrl+Space,",
+        "Left Ctrl+Space,",
+        "Left Ctrl+Space,",
+        "Left Ctrl+Space,",
+        "Left Shift+F,"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit1",
+      "label": "Select Unit 1",
+      "default_keys_per_preset": [
+        "F1",
+        "F1",
+        "F1",
+        "F1",
+        "F1",
+        "F1",
+        "F1"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit2",
+      "label": "Select Unit 2",
+      "default_keys_per_preset": [
+        "F2",
+        "F2",
+        "F2",
+        "F2",
+        "F2",
+        "F2",
+        "F2"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit3",
+      "label": "Select Unit 3",
+      "default_keys_per_preset": [
+        "F3",
+        "F3",
+        "F3",
+        "F3",
+        "F3",
+        "F3",
+        "F3"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit4",
+      "label": "Select Unit 4",
+      "default_keys_per_preset": [
+        "F4",
+        "F4",
+        "F4",
+        "F4",
+        "F4",
+        "F4",
+        "F4"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit5",
+      "label": "Select Unit 5",
+      "default_keys_per_preset": [
+        "F5",
+        "F5",
+        "F5",
+        "F5",
+        "F5",
+        "F5",
+        "F5"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit6",
+      "label": "Select Unit 6",
+      "default_keys_per_preset": [
+        "F6",
+        "F6",
+        "F6",
+        "F6",
+        "F6",
+        "F6",
+        "F6"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit7",
+      "label": "Select Unit 7",
+      "default_keys_per_preset": [
+        "F7",
+        "F7",
+        "F7",
+        "F7",
+        "F7",
+        "F7",
+        "F7"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit8",
+      "label": "Select Unit 8",
+      "default_keys_per_preset": [
+        "F8",
+        "F8",
+        "F8",
+        "F8",
+        "F8",
+        "F8",
+        "F8"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit9",
+      "label": "Select Unit 9",
+      "default_keys_per_preset": [
+        "F9",
+        "F9",
+        "F9",
+        "F9",
+        "F9",
+        "F9",
+        "F9"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectGroupUnit0",
+      "label": "Select Unit 10",
+      "default_keys_per_preset": [
+        "F10",
+        "F10",
+        "F10",
+        "F10",
+        "F10",
+        "F10",
+        "F10"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "GroupPagePrev",
+      "label": "Previous Unit Page",
+      "default_keys_per_preset": [
+        "F11",
+        "F11",
+        "F11",
+        "F11",
+        "F11",
+        "F11",
+        "F11"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "GroupPageNext",
+      "label": "Next Unit Page",
+      "default_keys_per_preset": [
+        "F12",
+        "F12",
+        "F12",
+        "F12",
+        "F12",
+        "F12",
+        "F12"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SetTeamRed",
+      "label": "Set Team Red",
+      "default_keys_per_preset": [
+        "Left Ctrl+F1, Right Ctrl+F1",
+        "Left Ctrl+F1, Right Ctrl+F1",
+        "Left Ctrl+F1, Right Ctrl+F1",
+        "Left Ctrl+F1, Right Ctrl+F1",
+        "Left Ctrl+F1, Right Ctrl+F1",
+        "Left Ctrl+F1, Right Ctrl+F1",
+        "Left Ctrl+F1, Right Ctrl+F1"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SetTeamGreen",
+      "label": "Set Team Green",
+      "default_keys_per_preset": [
+        "Left Ctrl+F2, Right Ctrl+F2",
+        "Left Ctrl+F2, Right Ctrl+F2",
+        "Left Ctrl+F2, Right Ctrl+F2",
+        "Left Ctrl+F2, Right Ctrl+F2",
+        "Left Ctrl+F2, Right Ctrl+F2",
+        "Left Ctrl+F2, Right Ctrl+F2",
+        "Left Ctrl+F2, Right Ctrl+F2"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SetTeamBlue",
+      "label": "Set Team Blue",
+      "default_keys_per_preset": [
+        "Left Ctrl+F3, Right Ctrl+F3",
+        "Left Ctrl+F3, Right Ctrl+F3",
+        "Left Ctrl+F3, Right Ctrl+F3",
+        "Left Ctrl+F3, Right Ctrl+F3",
+        "Left Ctrl+F3, Right Ctrl+F3",
+        "Left Ctrl+F3, Right Ctrl+F3",
+        "Left Ctrl+F3, Right Ctrl+F3"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SetTeamYellow",
+      "label": "Set Team Yellow",
+      "default_keys_per_preset": [
+        "Left Ctrl+F4, Right Ctrl+F4",
+        "Left Ctrl+F4, Right Ctrl+F4",
+        "Left Ctrl+F4, Right Ctrl+F4",
+        "Left Ctrl+F4, Right Ctrl+F4",
+        "Left Ctrl+F4, Right Ctrl+F4",
+        "Left Ctrl+F4, Right Ctrl+F4",
+        "Left Ctrl+F4, Right Ctrl+F4"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SetTeamWhite",
+      "label": "Set Team White",
+      "default_keys_per_preset": [
+        "Left Ctrl+F5, Right Ctrl+F5",
+        "Left Ctrl+F5, Right Ctrl+F5",
+        "Left Ctrl+F5, Right Ctrl+F5",
+        "Left Ctrl+F5, Right Ctrl+F5",
+        "Left Ctrl+F5, Right Ctrl+F5",
+        "Left Ctrl+F5, Right Ctrl+F5",
+        "Left Ctrl+F5, Right Ctrl+F5"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectTeamRed",
+      "label": "Select Team Red",
+      "default_keys_per_preset": [
+        "Left Shift+F1, Right Shift+F1",
+        "Left Shift+F1, Right Shift+F1",
+        "Left Shift+F1, Right Shift+F1",
+        "Left Shift+F1, Right Shift+F1",
+        "Left Shift+F1, Right Shift+F1",
+        "Left Shift+F1, Right Shift+F1",
+        "Left Shift+F1, Right Shift+F1"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectTeamGreen",
+      "label": "Select Team Green",
+      "default_keys_per_preset": [
+        "Left Shift+F2, Right Shift+F2",
+        "Left Shift+F2, Right Shift+F2",
+        "Left Shift+F2, Right Shift+F2",
+        "Left Shift+F2, Right Shift+F2",
+        "Left Shift+F2, Right Shift+F2",
+        "Left Shift+F2, Right Shift+F2",
+        "Left Shift+F2, Right Shift+F2"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectTeamBlue",
+      "label": "Select Team Blue",
+      "default_keys_per_preset": [
+        "Left Shift+F3, Right Shift+F3",
+        "Left Shift+F3, Right Shift+F3",
+        "Left Shift+F3, Right Shift+F3",
+        "Left Shift+F3, Right Shift+F3",
+        "Left Shift+F3, Right Shift+F3",
+        "Left Shift+F3, Right Shift+F3",
+        "Left Shift+F3, Right Shift+F3"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectTeamYellow",
+      "label": "Select Team Yellow",
+      "default_keys_per_preset": [
+        "Left Shift+F4, Right Shift+F4",
+        "Left Shift+F4, Right Shift+F4",
+        "Left Shift+F4, Right Shift+F4",
+        "Left Shift+F4, Right Shift+F4",
+        "Left Shift+F4, Right Shift+F4",
+        "Left Shift+F4, Right Shift+F4",
+        "Left Shift+F4, Right Shift+F4"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "SelectTeamWhite",
+      "label": "Select Team White",
+      "default_keys_per_preset": [
+        "Left Shift+F5, Right Shift+F5",
+        "Left Shift+F5, Right Shift+F5",
+        "Left Shift+F5, Right Shift+F5",
+        "Left Shift+F5, Right Shift+F5",
+        "Left Shift+F5, Right Shift+F5",
+        "Left Shift+F5, Right Shift+F5",
+        "Left Shift+F5, Right Shift+F5"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu1",
+      "label": "Open Menu (Move)",
+      "default_keys_per_preset": [
+        "1",
+        "1",
+        "",
+        "1",
+        "",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu2",
+      "label": "Open Menu (Target)",
+      "default_keys_per_preset": [
+        "2",
+        "2",
+        "",
+        "2",
+        "",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu3",
+      "label": "Open Menu (Engage)",
+      "default_keys_per_preset": [
+        "3",
+        "3",
+        "",
+        "3",
+        "",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu4",
+      "label": "Open Menu (Mount)",
+      "default_keys_per_preset": [
+        "4",
+        "4",
+        "",
+        "4",
+        "",
+        "4",
+        "4"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu5",
+      "label": "Open Menu (Status)",
+      "default_keys_per_preset": [
+        "5",
+        "5",
+        "",
+        "5",
+        "",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu6",
+      "label": "Open Menu (Action)",
+      "default_keys_per_preset": [
+        "6",
+        "6",
+        "",
+        "6",
+        "",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu7",
+      "label": "Open Menu (Combat Mode)",
+      "default_keys_per_preset": [
+        "7",
+        "7",
+        "",
+        "7",
+        "",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu8",
+      "label": "Open Menu (Formation)",
+      "default_keys_per_preset": [
+        "8",
+        "8",
+        "",
+        "8",
+        "",
+        "8",
+        "8"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu9",
+      "label": "Open Menu (Team)",
+      "default_keys_per_preset": [
+        "9",
+        "9",
+        "",
+        "9",
+        "",
+        "9",
+        "9"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenu0",
+      "label": "Open Menu (Reply)",
+      "default_keys_per_preset": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect1",
+      "label": "Select Menu 1",
+      "default_keys_per_preset": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect2",
+      "label": "Select Menu 2",
+      "default_keys_per_preset": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect3",
+      "label": "Select Menu 3",
+      "default_keys_per_preset": [
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect4",
+      "label": "Select Menu 4",
+      "default_keys_per_preset": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect5",
+      "label": "Select Menu 5",
+      "default_keys_per_preset": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect6",
+      "label": "Select Menu 6",
+      "default_keys_per_preset": [
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect7",
+      "label": "Select Menu 7",
+      "default_keys_per_preset": [
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect8",
+      "label": "Select Menu 8",
+      "default_keys_per_preset": [
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect9",
+      "label": "Select Menu 9",
+      "default_keys_per_preset": [
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "CommandingMenuSelect0",
+      "label": "Select Menu 10",
+      "default_keys_per_preset": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "commandWatch",
+      "label": "Command Watch",
+      "default_keys_per_preset": [
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "commandLeft",
+      "label": "Command Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "commandRight",
+      "label": "Command Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "commandForward",
+      "label": "Command Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "commandBack",
+      "label": "Command Back",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "commandFast",
+      "label": "Command Fast",
+      "default_keys_per_preset": [
+        "E",
+        "W+Left Shift",
+        "W+Left Shift",
+        "W+Left Shift",
+        "W+Left Shift",
+        "W+Left Shift",
+        "W+Left Shift"
+      ]
+    },
+    {
+      "category": "Command",
+      "action_id": "commandSlow",
+      "label": "Command Slow",
+      "default_keys_per_preset": [
+        "Q",
+        "W+Left Ctrl, Left Ctrl+W",
+        "W+Left Ctrl, Left Ctrl+W",
+        "W+Left Ctrl, Left Ctrl+W",
+        "W+Left Ctrl, Left Ctrl+W",
+        "W+Left Ctrl, Left Ctrl+W",
+        "W+Left Ctrl, Left Ctrl+W"
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "networkStats",
+      "label": "Multiplayer Statistics",
+      "default_keys_per_preset": [
+        "I",
+        "P",
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "networkPlayers",
+      "label": "List Of Players",
+      "default_keys_per_preset": [
+        "P",
+        "Right Ctrl+P",
+        "Right Ctrl+P",
+        "Right Ctrl+P",
+        "Right Ctrl+P",
+        "Right Ctrl+P",
+        "Right Ctrl+P"
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "prevChannel",
+      "label": "Previous Channel",
+      "default_keys_per_preset": [
+        ",",
+        ",",
+        ",",
+        ",",
+        ",",
+        ",",
+        ","
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "nextChannel",
+      "label": "Next Channel",
+      "default_keys_per_preset": [
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        "."
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "chat",
+      "label": "Chat",
+      "default_keys_per_preset": [
+        "/",
+        "/",
+        "/",
+        "/",
+        "&lt;null&gt;",
+        "/",
+        "Enter"
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "pushToTalk",
+      "label": "Push To Talk",
+      "default_keys_per_preset": [
+        "Caps Lock",
+        "Caps Lock",
+        "Caps Lock",
+        "Caps Lock",
+        "Caps Lock",
+        "Caps Lock",
+        "Caps Lock"
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "voiceOverNet",
+      "label": "Voice Over Net",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "PushToTalkAll",
+      "label": "Talk On Global Channel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "PushToTalkSide",
+      "label": "Talk On Side Channel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "PushToTalkCommand",
+      "label": "Talk On Command Channel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "PushToTalkGroup",
+      "label": "Talk On Group Channel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "PushToTalkVehicle",
+      "label": "Talk on Vehicle channel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "PushToTalkDirect",
+      "label": "Talk on Direct channel",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Multiplayer",
+      "action_id": "TacticalPing",
+      "label": "Tactical Ping",
+      "default_keys_per_preset": [
+        "",
+        "Left Shift+T",
+        "Left Shift+T",
+        "Left Shift+T",
+        "Left Shift+T",
+        "Left Shift+T",
+        "Left Shift+T"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveForward",
+      "label": "Move Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "UP",
+        "W"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveBack",
+      "label": "Move Back",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "DOWN",
+        "S"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "TurnLeft",
+      "label": "Strafe Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "LEFT",
+        "A"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "TurnRight",
+      "label": "Strafe Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "RIGHT",
+        "D"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveFastForward",
+      "label": "Fast Forward",
+      "default_keys_per_preset": [
+        "2xW",
+        "",
+        "",
+        "W+S, S+W",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveSlowForward",
+      "label": "Slow forward",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "turbo",
+      "label": "Sprint",
+      "default_keys_per_preset": [
+        "",
+        "Left Shift",
+        "Left Shift",
+        "",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "TurboToggle",
+      "label": "Sprint (Toggle)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveLeft",
+      "label": "Turn Left",
+      "default_keys_per_preset": [
+        "Left Shift+Q",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveRight",
+      "label": "Turn Right",
+      "default_keys_per_preset": [
+        "Left Shift+E",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "TactTemp",
+      "label": "Combat Pace",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "Left Shift",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "TactToggle",
+      "label": "Combat Pace Toggle",
+      "default_keys_per_preset": [
+        "Y",
+        "C",
+        "2xC",
+        "",
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "TactShort",
+      "label": "Combat Pace 3 Sec.",
+      "default_keys_per_preset": [
+        "",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn.",
+        "Prim. Mouse Btn."
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "WalkRunTemp",
+      "label": "Walk/Run (Temporary)",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "",
+        "",
+        "Space",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "WalkRunToggle",
+      "label": "Walk/Run (Toggle)",
+      "default_keys_per_preset": [
+        "2xLeft Shift",
+        "W+S, S+W",
+        "Left Ctrl+C",
+        "",
+        "2xLeft Shift",
+        "W+S, S+W",
+        "W+S, S+W"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "AdjustUp",
+      "label": "Adjust Stance Up",
+      "default_keys_per_preset": [
+        "Left Ctrl+W",
+        "Left Ctrl+W",
+        "Left Ctrl+W",
+        "Left Ctrl+W",
+        "Left Ctrl+W",
+        "Left Ctrl+W",
+        "UP"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "AdjustDown",
+      "label": "Adjust Stance Down",
+      "default_keys_per_preset": [
+        "Left Ctrl+S",
+        "Left Ctrl+S",
+        "Left Ctrl+S",
+        "Left Ctrl+S",
+        "Left Ctrl+S",
+        "Left Ctrl+S",
+        "DOWN"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "AdjustLeft",
+      "label": "Adjust Stance Left",
+      "default_keys_per_preset": [
+        "Left Ctrl+A",
+        "Left Ctrl+A",
+        "Left Ctrl+A",
+        "Left Ctrl+A",
+        "Left Ctrl+A",
+        "Left Ctrl+A",
+        "LEFT"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "AdjustRight",
+      "label": "Adjust Stance Right",
+      "default_keys_per_preset": [
+        "Left Ctrl+D",
+        "Left Ctrl+D",
+        "Left Ctrl+D",
+        "Left Ctrl+D",
+        "Left Ctrl+D",
+        "Left Ctrl+D",
+        "RIGHT"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "Stand",
+      "label": "Stand Up (Toggle)",
+      "default_keys_per_preset": [
+        "C",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "Crouch",
+      "label": "Crouch (Toggle)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "Prone",
+      "label": "Prone (Toggle)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveUp",
+      "label": "Crouch / Stand Up",
+      "default_keys_per_preset": [
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "Left Ctrl"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "MoveDown",
+      "label": "Go Prone / Stand Up",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Space"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "SwimUp",
+      "label": "Swim Up",
+      "default_keys_per_preset": [
+        "Q",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "SwimDown",
+      "label": "Swim Down",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Space"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "EvasiveLeft",
+      "label": "Evasive Left",
+      "default_keys_per_preset": [
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "",
+        "Q"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "EvasiveRight",
+      "label": "Evasive Right",
+      "default_keys_per_preset": [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "LeanLeft",
+      "label": "Lean Left",
+      "default_keys_per_preset": [
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Tracking device Left",
+        "Q"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "LeanLeftToggle",
+      "label": "Lean Left Toggle",
+      "default_keys_per_preset": [
+        "2xQ",
+        "2xQ",
+        "2xQ",
+        "2xQ",
+        "Left Ctrl+Q",
+        "2xQ",
+        "2xQ"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "LeanRight",
+      "label": "Lean Right",
+      "default_keys_per_preset": [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "LeanRightToggle",
+      "label": "Lean Right Toggle",
+      "default_keys_per_preset": [
+        "2xE",
+        "2xE",
+        "2xE",
+        "2xE",
+        "Left Ctrl+E",
+        "2xE",
+        "2xE"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "GetOver",
+      "label": "Step Over",
+      "default_keys_per_preset": [
+        "V",
+        "V",
+        "V",
+        "V",
+        "Space",
+        "V",
+        "V"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "Salute",
+      "label": "Salute",
+      "default_keys_per_preset": [
+        "\\",
+        "\\",
+        "\\",
+        "\\",
+        "\\",
+        "\\",
+        "\\"
+      ]
+    },
+    {
+      "category": "Infantry Movement",
+      "action_id": "SitDown",
+      "label": "Sit Down",
+      "default_keys_per_preset": [
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla",
+        "acute/cedilla"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarForward",
+      "label": "Car Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "UP",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarBack",
+      "label": "Car Back",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarLeft",
+      "label": "Car Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarRight",
+      "label": "Car Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarLinearLeft",
+      "label": "Car Left (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarLinearRight",
+      "label": "Car Right (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarFastForward",
+      "label": "Car Fast Forward",
+      "default_keys_per_preset": [
+        "E",
+        "Left Shift+W",
+        "Left Shift+W",
+        "W",
+        "Left Shift+W",
+        "Left Shift+W",
+        "Left Shift+W"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarSlowForward",
+      "label": "Car Slow Forward",
+      "default_keys_per_preset": [
+        "Q",
+        "Left Ctrl+W",
+        "Left Ctrl+W",
+        "W+S, S+W",
+        "Left Ctrl+W",
+        "Left Ctrl+W",
+        "Left Ctrl+W"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarHandBrake",
+      "label": "Hand Brake",
+      "default_keys_per_preset": [
+        "",
+        "X",
+        "X",
+        "Space",
+        "Space",
+        "X",
+        "Space"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarWheelLeft",
+      "label": "Car More Left",
+      "default_keys_per_preset": [
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarWheelRight",
+      "label": "Car More Right",
+      "default_keys_per_preset": [
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarAimUp",
+      "label": "Aim Up",
+      "default_keys_per_preset": [
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarAimDown",
+      "label": "Aim Down",
+      "default_keys_per_preset": [
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarAimLeft",
+      "label": "Aim Left",
+      "default_keys_per_preset": [
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "CarAimRight",
+      "label": "Aim Right",
+      "default_keys_per_preset": [
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "TurnIn",
+      "label": "Turn In",
+      "default_keys_per_preset": [
+        "X",
+        "Left Ctrl+Q",
+        "Left Ctrl+Q",
+        "Z",
+        "Left Ctrl+Q",
+        "Left Ctrl+Q",
+        "Left Ctrl+Q"
+      ]
+    },
+    {
+      "category": "Vehicle Movement",
+      "action_id": "TurnOut",
+      "label": "Turn out",
+      "default_keys_per_preset": [
+        "Z",
+        "Left Ctrl+E",
+        "Left Ctrl+E",
+        "X",
+        "Left Ctrl+E",
+        "Left Ctrl+E",
+        "Left Ctrl+E"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCyclicForward",
+      "label": "Cyclic Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCyclicBack",
+      "label": "Cyclic Backward",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCyclicLeft",
+      "label": "Cyclic Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCyclicRight",
+      "label": "Cyclic Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCollectiveRaise",
+      "label": "Collective Raise",
+      "default_keys_per_preset": [
+        "Q",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCollectiveLower",
+      "label": "Collective Lower",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Space",
+        "Z",
+        "Z",
+        "Space"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliRudderLeft",
+      "label": "Left Pedal",
+      "default_keys_per_preset": [
+        "X",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliRudderRight",
+      "label": "Right Pedal",
+      "default_keys_per_preset": [
+        "C",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliLeft",
+      "label": "Left Turn",
+      "default_keys_per_preset": [
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliRight",
+      "label": "Right Turn",
+      "default_keys_per_preset": [
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "AutoHover",
+      "label": "Auto-Hover On",
+      "default_keys_per_preset": [
+        "2x\\",
+        "X",
+        "X",
+        "",
+        "2xLeft Shift",
+        "X",
+        "X"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "AutoHoverCancel",
+      "label": "Auto-Hover Off",
+      "default_keys_per_preset": [
+        "\\",
+        "X",
+        "X",
+        "",
+        "2xLeft Shift",
+        "X",
+        "X"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "LandGear",
+      "label": "Gear Down",
+      "default_keys_per_preset": [
+        "Right Ctrl+G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "LandGearUp",
+      "label": "Gear Up",
+      "default_keys_per_preset": [
+        "Right Ctrl+G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCollectiveRaiseCont",
+      "label": "Collective Raise (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliCollectiveLowerCont",
+      "label": "Collective Lower (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliWheelsBrake",
+      "label": "Wheel Brake Hold/Release",
+      "default_keys_per_preset": [
+        "Right Ctrl+W",
+        "Right Ctrl+W",
+        "Right Ctrl+W",
+        "Right Ctrl+W",
+        "Right Ctrl+W",
+        "Right Ctrl+W",
+        "Right Ctrl+W"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HelicopterTrimOn",
+      "label": "Manual Trim Set",
+      "default_keys_per_preset": [
+        "Right Ctrl+5 [NUM]",
+        "Right Ctrl+5 [NUM]",
+        "Right Ctrl+5 [NUM]",
+        "Right Ctrl+5 [NUM]",
+        "Right Ctrl+5 [NUM]",
+        "Right Ctrl+5 [NUM]",
+        "Right Ctrl+5 [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HelicopterTrimOff",
+      "label": "Manual Trim Release",
+      "default_keys_per_preset": [
+        "Right Ctrl+. [NUM]",
+        "Right Ctrl+. [NUM]",
+        "Right Ctrl+. [NUM]",
+        "Right Ctrl+. [NUM]",
+        "Right Ctrl+. [NUM]",
+        "Right Ctrl+. [NUM]",
+        "Right Ctrl+. [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliTrimLeft",
+      "label": "Manual Trim (Left)",
+      "default_keys_per_preset": [
+        "Right Ctrl+4 [NUM]",
+        "Right Ctrl+4 [NUM]",
+        "Right Ctrl+4 [NUM]",
+        "Right Ctrl+4 [NUM]",
+        "Right Ctrl+4 [NUM]",
+        "Right Ctrl+4 [NUM]",
+        "Right Ctrl+4 [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliTrimRight",
+      "label": "Manual Trim (Right)",
+      "default_keys_per_preset": [
+        "Right Ctrl+6 [NUM]",
+        "Right Ctrl+6 [NUM]",
+        "Right Ctrl+6 [NUM]",
+        "Right Ctrl+6 [NUM]",
+        "Right Ctrl+6 [NUM]",
+        "Right Ctrl+6 [NUM]",
+        "Right Ctrl+6 [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliTrimForward",
+      "label": "Manual Trim (Forward)",
+      "default_keys_per_preset": [
+        "Right Ctrl+8 [NUM]",
+        "Right Ctrl+8 [NUM]",
+        "Right Ctrl+8 [NUM]",
+        "Right Ctrl+8 [NUM]",
+        "Right Ctrl+8 [NUM]",
+        "Right Ctrl+8 [NUM]",
+        "Right Ctrl+8 [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliTrimBackward",
+      "label": "Manual Trim (Backward)",
+      "default_keys_per_preset": [
+        "Right Ctrl+2 [NUM]",
+        "Right Ctrl+2 [NUM]",
+        "Right Ctrl+2 [NUM]",
+        "Right Ctrl+2 [NUM]",
+        "Right Ctrl+2 [NUM]",
+        "Right Ctrl+2 [NUM]",
+        "Right Ctrl+2 [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliTrimRudderLeft",
+      "label": "Manual Trim (Pedals Left)",
+      "default_keys_per_preset": [
+        "Right Ctrl+1 [NUM]",
+        "Right Ctrl+1 [NUM]",
+        "Right Ctrl+1 [NUM]",
+        "Right Ctrl+1 [NUM]",
+        "Right Ctrl+1 [NUM]",
+        "Right Ctrl+1 [NUM]",
+        "Right Ctrl+1 [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliTrimRudderRight",
+      "label": "Manual Trim (Pedals Right)",
+      "default_keys_per_preset": [
+        "Right Ctrl+3 [NUM]",
+        "Right Ctrl+3 [NUM]",
+        "Right Ctrl+3 [NUM]",
+        "Right Ctrl+3 [NUM]",
+        "Right Ctrl+3 [NUM]",
+        "Right Ctrl+3 [NUM]",
+        "Right Ctrl+3 [NUM]"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliRopeAction",
+      "label": "Rope Interaction",
+      "default_keys_per_preset": [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B"
+      ]
+    },
+    {
+      "category": "Helicopter Movement",
+      "action_id": "HeliSlingLoadManager",
+      "label": "Sling Load Assistant",
+      "default_keys_per_preset": [
+        "Right Ctrl+B",
+        "Right Ctrl+B",
+        "Right Ctrl+B",
+        "Right Ctrl+B",
+        "Right Ctrl+B",
+        "Right Ctrl+B",
+        "Right Ctrl+B"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliForward",
+      "label": "Nose Down",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliBack",
+      "label": "Nose Up",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "AirBankLeft",
+      "label": "Bank Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "AirBankRight",
+      "label": "Bank Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliFastForward",
+      "label": "Fast Forward",
+      "default_keys_per_preset": [
+        "E",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliUp",
+      "label": "Increase Thrust",
+      "default_keys_per_preset": [
+        "Q",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliDown",
+      "label": "Decrease Thrust",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Space",
+        "Z",
+        "Z",
+        "Space"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliThrottlePos",
+      "label": "Thrust (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "AirPlaneBrake",
+      "label": "Speedbrake",
+      "default_keys_per_preset": [
+        "",
+        "X",
+        "X",
+        "X",
+        "",
+        "X",
+        "X"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliRudderLeft",
+      "label": "Left Pedal",
+      "default_keys_per_preset": [
+        "X",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliRudderRight",
+      "label": "Right Pedal",
+      "default_keys_per_preset": [
+        "C",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliLeft",
+      "label": "Left Turn",
+      "default_keys_per_preset": [
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliRight",
+      "label": "Right Turn",
+      "default_keys_per_preset": [
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "vtolVectoring",
+      "label": "Auto-Vectoring On",
+      "default_keys_per_preset": [
+        "2x\\",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "X"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "vtolVectoringCancel",
+      "label": "Auto-Vectoring Off",
+      "default_keys_per_preset": [
+        "\\",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "Left Ctrl+X",
+        "X"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "LandGear",
+      "label": "Gear Down",
+      "default_keys_per_preset": [
+        "Right Ctrl+G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "LandGearUp",
+      "label": "Gear Up",
+      "default_keys_per_preset": [
+        "Right Ctrl+G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "FlapsDown",
+      "label": "Flaps Down",
+      "default_keys_per_preset": [
+        "Right Ctrl+K",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left",
+        "Right Ctrl+L",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "FlapsUp",
+      "label": "Flaps Up",
+      "default_keys_per_preset": [
+        "Right Ctrl+L",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left",
+        "Left Ctrl+Mouse left"
+      ]
+    },
+    {
+      "category": "Plane Movement",
+      "action_id": "HeliThrottleNeg",
+      "label": "Speedbrake (Analog)",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineUp",
+      "label": "Surface",
+      "default_keys_per_preset": [
+        "Q",
+        "X",
+        "X",
+        "Left Shift",
+        "Q",
+        "X",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineDown",
+      "label": "Dive",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Space",
+        "Z",
+        "Z",
+        "Space"
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineLeft",
+      "label": "Turn Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineRight",
+      "label": "Turn Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineForward",
+      "label": "Move Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineBack",
+      "label": "Move Backward",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineCyclicForward",
+      "label": "Nose Up",
+      "default_keys_per_preset": [
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up"
+      ]
+    },
+    {
+      "category": "Submarine Movement",
+      "action_id": "submarineCyclicBack",
+      "label": "Nose Down",
+      "default_keys_per_preset": [
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldSwitchCamera",
+      "label": "Buldozer Switch Camera",
+      "default_keys_per_preset": [
+        "Insert",
+        "Insert",
+        "Insert",
+        "Insert",
+        "Insert",
+        "Insert",
+        "Insert"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldFreeLook",
+      "label": "Buldozer Free Look",
+      "default_keys_per_preset": [
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldSelect",
+      "label": "Buldozer Select",
+      "default_keys_per_preset": [
+        "Space",
+        "Space",
+        "Space",
+        "Space",
+        "Space",
+        "Space",
+        "Space"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldResetCamera",
+      "label": "Buldozer Reset Camera",
+      "default_keys_per_preset": [
+        "0 [NUM]",
+        "0 [NUM]",
+        "0 [NUM]",
+        "0 [NUM]",
+        "0 [NUM]",
+        "0 [NUM]",
+        "0 [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldMagnetizePoints",
+      "label": "Buldozer Magnetize Points",
+      "default_keys_per_preset": [
+        "F5",
+        "F5",
+        "F5",
+        "F5",
+        "F5",
+        "F5",
+        "F5"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldMagnetizePlanes",
+      "label": "Buldozer Magnetize Planes",
+      "default_keys_per_preset": [
+        "F6",
+        "F6",
+        "F6",
+        "F6",
+        "F6",
+        "F6",
+        "F6"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldMagnetizeYFixed",
+      "label": "Buldozer Magnetize Fixed Y",
+      "default_keys_per_preset": [
+        "F7",
+        "F7",
+        "F7",
+        "F7",
+        "F7",
+        "F7",
+        "F7"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainRaise1m",
+      "label": "Buldozer Raise Terrain 1 m",
+      "default_keys_per_preset": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainRaise10cm",
+      "label": "Buldozer Raise Terrain 10 cm",
+      "default_keys_per_preset": [
+        "U",
+        "U",
+        "U",
+        "U",
+        "U",
+        "U",
+        "U"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainLower1m",
+      "label": "Buldozer Lower Terrain 1 m",
+      "default_keys_per_preset": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainLower10cm",
+      "label": "Buldozer Lower Terrain 10 cm",
+      "default_keys_per_preset": [
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainRaise5m",
+      "label": "Buldozer Raise Terrain 5 m",
+      "default_keys_per_preset": [
+        "P",
+        "P",
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainRaise50cm",
+      "label": "Buldozer Raise Terrain 50 cm",
+      "default_keys_per_preset": [
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainLower5m",
+      "label": "Buldozer Lower Terrain 5 m",
+      "default_keys_per_preset": [
+        ";",
+        ";",
+        ";",
+        ";",
+        ";",
+        ";",
+        ";"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainLower50cm",
+      "label": "Buldozer Lower Terrain 50 cm",
+      "default_keys_per_preset": [
+        "K",
+        "K",
+        "K",
+        "K",
+        "K",
+        "K",
+        "K"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTerrainShowNode",
+      "label": "Buldozer Show Terrain Node",
+      "default_keys_per_preset": [
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldSelectionType",
+      "label": "Buldozer Selection Type",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldLeft",
+      "label": "Buldozer Left",
+      "default_keys_per_preset": [
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "LEFT"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldRight",
+      "label": "Buldozer Right",
+      "default_keys_per_preset": [
+        "RIGHT",
+        "RIGHT",
+        "RIGHT",
+        "RIGHT",
+        "RIGHT",
+        "RIGHT",
+        "RIGHT"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldForward",
+      "label": "Buldozer Forward",
+      "default_keys_per_preset": [
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "UP"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldBack",
+      "label": "Buldozer Back",
+      "default_keys_per_preset": [
+        "DOWN",
+        "DOWN",
+        "DOWN",
+        "DOWN",
+        "DOWN",
+        "DOWN",
+        "DOWN"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldMoveLeft",
+      "label": "Buldozer Move Left",
+      "default_keys_per_preset": [
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left",
+        "Mouse left"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldMoveRight",
+      "label": "Buldozer Move Right",
+      "default_keys_per_preset": [
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right",
+        "Mouse right"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldMoveForward",
+      "label": "Buldozer Move Forward",
+      "default_keys_per_preset": [
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up",
+        "Mouse up"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldMoveBack",
+      "label": "Buldozer Move Back",
+      "default_keys_per_preset": [
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down",
+        "Mouse down"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTurbo",
+      "label": "Buldozer Turbo",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldUp",
+      "label": "Buldozer Up",
+      "default_keys_per_preset": [
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up",
+        "Page Up"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldDown",
+      "label": "Buldozer Down",
+      "default_keys_per_preset": [
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down",
+        "Page Down"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldLookLeft",
+      "label": "Buldozer Look Left",
+      "default_keys_per_preset": [
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldLookRight",
+      "label": "Buldozer Look Right",
+      "default_keys_per_preset": [
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldLookUp",
+      "label": "Buldozer Look Up",
+      "default_keys_per_preset": [
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldLookDown",
+      "label": "Buldozer Look Down",
+      "default_keys_per_preset": [
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldZoomIn",
+      "label": "Buldozer Zoom In",
+      "default_keys_per_preset": [
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldZoomOut",
+      "label": "Buldozer Zoom Out",
+      "default_keys_per_preset": [
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldTextureInfo",
+      "label": "Buldozer Show Texture Info",
+      "default_keys_per_preset": [
+        "T",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldBrushRatio",
+      "label": "Brush Ratio",
+      "default_keys_per_preset": [
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B",
+        "B"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldBrushStrength",
+      "label": "Brush Strength",
+      "default_keys_per_preset": [
+        "M",
+        "M",
+        "M",
+        "M",
+        "M",
+        "F",
+        "M"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldBrushSmooth",
+      "label": "Brush Smooth",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldBrushRandomize",
+      "label": "Randomize",
+      "default_keys_per_preset": [
+        "R",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldBrushSetHeight",
+      "label": "Set Height Brush",
+      "default_keys_per_preset": [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldBrushOuter",
+      "label": "Brush Outer",
+      "default_keys_per_preset": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldUndo",
+      "label": "Undo",
+      "default_keys_per_preset": [
+        "Left Ctrl+Z",
+        "Left Ctrl+Z",
+        "Left Ctrl+Z",
+        "Left Ctrl+Z",
+        "Left Ctrl+Z",
+        "Left Ctrl+Z",
+        "Left Ctrl+Z"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldRedo",
+      "label": "Redo",
+      "default_keys_per_preset": [
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R",
+        "Left Ctrl+R"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldCreateObj",
+      "label": "Create Object",
+      "default_keys_per_preset": [
+        "V",
+        "V",
+        "V",
+        "V",
+        "V",
+        "V",
+        "V"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldDuplicateSel",
+      "label": "Duplicate Selection",
+      "default_keys_per_preset": [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldRemoveSel",
+      "label": "Remove Selection",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldRotateSelX",
+      "label": "Rotate X",
+      "default_keys_per_preset": [
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldRotateSelZ",
+      "label": "Rotate Y",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldScaleSel",
+      "label": "Scale",
+      "default_keys_per_preset": [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldElevateSel",
+      "label": "Elevate",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldKeepAbsoluteElevationSel",
+      "label": "Lock Object Elevation",
+      "default_keys_per_preset": [
+        "M",
+        "M",
+        "M",
+        "M",
+        "M",
+        "M",
+        "M"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "BuldClearAllElevationLocks",
+      "label": "Unlock Object Elevation",
+      "default_keys_per_preset": [
+        "Left Shift+M, Right Shift+M",
+        "Left Shift+M, Right Shift+M",
+        "Left Shift+M, Right Shift+M",
+        "Left Shift+M, Right Shift+M",
+        "Left Shift+M, Right Shift+M",
+        "Left Shift+M, Right Shift+M",
+        "Left Shift+M, Right Shift+M"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "SeagullUp",
+      "label": "Seagull Up",
+      "default_keys_per_preset": [
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "SeagullDown",
+      "label": "Seagull Down",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "SeagullForward",
+      "label": "Seagull Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "SeagullBack",
+      "label": "Seagull Back",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "SeagullFastForward",
+      "label": "Seagull Fast Forward",
+      "default_keys_per_preset": [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "cheat1",
+      "label": "N/A",
+      "default_keys_per_preset": [
+        "Right Windows",
+        "Right Windows",
+        "Right Windows",
+        "Right Windows",
+        "Right Windows",
+        "Right Windows",
+        "Right Windows"
+      ]
+    },
+    {
+      "category": "Development",
+      "action_id": "cheat2",
+      "label": "N/A",
+      "default_keys_per_preset": [
+        "Right Alt",
+        "Right Alt",
+        "Right Alt",
+        "Right Alt",
+        "Right Alt",
+        "Right Alt",
+        "Right Alt"
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User1",
+      "label": "Use Action 1",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User2",
+      "label": "Use Action 2",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User3",
+      "label": "Use Action 3",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User4",
+      "label": "Use Action 4",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User5",
+      "label": "Use Action 5",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User6",
+      "label": "Use Action 6",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User7",
+      "label": "Use Action 7",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User8",
+      "label": "Use Action 8",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User9",
+      "label": "Use Action 9",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User10",
+      "label": "Use Action 10",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User11",
+      "label": "Use Action 11",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User12",
+      "label": "Use Action 12",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User13",
+      "label": "Use Action 13",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User14",
+      "label": "Use Action 14",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User15",
+      "label": "Use Action 15",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User16",
+      "label": "Use Action 16",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User17",
+      "label": "Use Action 17",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User18",
+      "label": "Use Action 18",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User19",
+      "label": "Use Action 19",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Custom controls",
+      "action_id": "User20",
+      "label": "Use Action 20",
+      "default_keys_per_preset": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorInterface",
+      "label": "Zeus",
+      "default_keys_per_preset": [
+        "Y",
+        "Y",
+        "Y",
+        "Y",
+        "Y",
+        "Y",
+        "Y"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorRotateMod",
+      "label": "Rotate entity",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorMoveY",
+      "label": "Raise entity",
+      "default_keys_per_preset": [
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorDelete",
+      "label": "Delete entity",
+      "default_keys_per_preset": [
+        "Delete",
+        "Delete",
+        "Delete",
+        "Delete",
+        "Delete",
+        "Delete",
+        "Delete"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorDestroy",
+      "label": "Destroy entity",
+      "default_keys_per_preset": [
+        "End",
+        "End",
+        "End",
+        "End",
+        "End",
+        "End",
+        "End"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorGetOut",
+      "label": "Order units to get out",
+      "default_keys_per_preset": [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorContentWaypoint",
+      "label": "Place 'cycle' waypoint",
+      "default_keys_per_preset": [
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorMoveCamTo",
+      "label": "Move camera to selected entity",
+      "default_keys_per_preset": [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorLockCameraTo",
+      "label": "Lock camera on selected entity",
+      "default_keys_per_preset": [
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+F",
+        "Left Ctrl+F"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorLevelObject",
+      "label": "Adjust object to sea level",
+      "default_keys_per_preset": [
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X",
+        "X"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorGroupMod",
+      "label": "Group units together",
+      "default_keys_per_preset": [
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorMultipleMod",
+      "label": "Select multiple entities",
+      "default_keys_per_preset": [
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl",
+        "Left Ctrl"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "CuratorCollapseParent",
+      "label": "Collapse / Expand Section",
+      "default_keys_per_preset": [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorNightvision",
+      "label": "Toggle vision mode",
+      "default_keys_per_preset": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorPersonView",
+      "label": "Toggle View",
+      "default_keys_per_preset": [
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]",
+        "Enter [NUM]"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorPingView",
+      "label": "Move to pinged player",
+      "default_keys_per_preset": [
+        "Space",
+        "Space",
+        "Space",
+        "Space",
+        "E",
+        "Space",
+        "Space"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorToggleInterface",
+      "label": "Toggle interface",
+      "default_keys_per_preset": [
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "I",
+        "Backspace",
+        "Backspace"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorToggleEdit",
+      "label": "Toggle EDIT list",
+      "default_keys_per_preset": [
+        "E",
+        "E",
+        "E",
+        "E",
+        "U",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorToggleCreate",
+      "label": "Toggle CREATE list",
+      "default_keys_per_preset": [
+        "R",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorMapTextures",
+      "label": "Toggle map textures",
+      "default_keys_per_preset": [
+        "T",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T",
+        "T"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorCompass",
+      "label": "Compass",
+      "default_keys_per_preset": [
+        "K",
+        "K",
+        "K",
+        "K",
+        "K",
+        "K",
+        "K"
+      ]
+    },
+    {
+      "category": "Zeus",
+      "action_id": "curatorWatch",
+      "label": "Toggle time information",
+      "default_keys_per_preset": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveForward",
+      "label": "Move Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveBackward",
+      "label": "Move Backward",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveLeft",
+      "label": "Move Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveRight",
+      "label": "Move Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveUp",
+      "label": "Move Up",
+      "default_keys_per_preset": [
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveDown",
+      "label": "Move Down",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveTurbo1",
+      "label": "Speed Modifier",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraMoveTurbo2",
+      "label": "Extreme Speed Modifier",
+      "default_keys_per_preset": [
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt",
+        "Left Alt"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraZoomIn",
+      "label": "Zoom In",
+      "default_keys_per_preset": [
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]",
+        "+ [NUM]"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraZoomOut",
+      "label": "Zoom Out",
+      "default_keys_per_preset": [
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]",
+        "- [NUM]"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraLookUp",
+      "label": "Look Up",
+      "default_keys_per_preset": [
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraLookDown",
+      "label": "Look Down",
+      "default_keys_per_preset": [
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraLookLeft",
+      "label": "Look Left",
+      "default_keys_per_preset": [
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraLookRight",
+      "label": "Look Right",
+      "default_keys_per_preset": [
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraReset",
+      "label": "Reset View",
+      "default_keys_per_preset": [
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraTarget",
+      "label": "Move to Target",
+      "default_keys_per_preset": [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraVisionMode",
+      "label": "Toggle Vision Mode",
+      "default_keys_per_preset": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraFlashlight",
+      "label": "Toggle Flashlight",
+      "default_keys_per_preset": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ]
+    },
+    {
+      "category": "Camera",
+      "action_id": "cameraInterface",
+      "label": "Toggle Interface",
+      "default_keys_per_preset": [
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace",
+        "Backspace"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraMoveForward",
+      "label": "Move Forward",
+      "default_keys_per_preset": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraMoveBackward",
+      "label": "Move Backward",
+      "default_keys_per_preset": [
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S",
+        "S"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraMoveLeft",
+      "label": "Move Left",
+      "default_keys_per_preset": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraMoveRight",
+      "label": "Move Right",
+      "default_keys_per_preset": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraMoveUp",
+      "label": "Move Up",
+      "default_keys_per_preset": [
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q",
+        "Q"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraMoveDown",
+      "label": "Move Down",
+      "default_keys_per_preset": [
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z",
+        "Z"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraMoveTurbo",
+      "label": "Speed Modifier",
+      "default_keys_per_preset": [
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift",
+        "Left Shift"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraLookUp",
+      "label": "Look Up",
+      "default_keys_per_preset": [
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]",
+        "8 [NUM]"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraLookDown",
+      "label": "Look Down",
+      "default_keys_per_preset": [
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]",
+        "2 [NUM]"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraLookLeft",
+      "label": "Look Left",
+      "default_keys_per_preset": [
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]",
+        "4 [NUM]"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraLookRight",
+      "label": "Look Right",
+      "default_keys_per_preset": [
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]",
+        "6 [NUM]"
+      ]
+    },
+    {
+      "category": "Editor Camera",
+      "action_id": "editorCameraReset",
+      "label": "N/A",
+      "default_keys_per_preset": [
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]",
+        "5 [NUM]"
+      ]
+    }
+  ]
+}

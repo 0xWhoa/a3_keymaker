@@ -1,0 +1,28 @@
+[project]
+name = "a3_keymaker"
+version = "1.0.0"
+description = "Extract Arma 3 keybindings via in-game SQF and render them to a single static HTML keymap."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jinja2>=3.1",
+]
+
+[project.scripts]
+a3_keymaker = "a3_keymaker.cli:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+a3_keymaker = ["data/*.json", "data/*.png", "scripts/*.sqf"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
